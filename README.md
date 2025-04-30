@@ -102,4 +102,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [TMDB](https://www.themoviedb.org/) for providing the movie data API
 - [Appwrite](https://appwrite.io/) for the backend services
 - [TailwindCSS](https://tailwindcss.com/) for the styling system
-- This project was built following [React JS 19 Full Course 2025](https://www.youtube.com/watch?v=dCLhUialKPQ&t=3783s) by [JavaScript Mastery] on YouTube
+- This project was built following [React JS 19 Full Course 2025](https://www.youtube.com/watch?v=dCLhUialKPQ&t=3783s) by JavaScript Mastery on YouTube
